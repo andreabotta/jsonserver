@@ -28,7 +28,7 @@
             "id": 4,
             "title": "Post 4",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "gucci",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "title": "Post 5",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "rolex",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "title": "Post 6",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "champions",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
@@ -78,7 +78,7 @@
             "id": 4,
             "title": "Post 4",
             "desc": "Lorem ipsum dolor sit amet,consectetur elit",
-            "brand": "nike",
+            "brand": "gucci",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -86,7 +86,7 @@
             "id": 5,
             "title": "Post 5",
             "desc": "Lorem ipsum dolor sit amet,consectetur elit",
-            "brand": "nike",
+            "brand": "rolex",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -94,7 +94,7 @@
             "id": 6,
             "title": "Post 6",
             "desc": "Lorem ipsum dolor sit amet,consectetur elit",
-            "brand": "nike",
+            "brand": "champions",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
