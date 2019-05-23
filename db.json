@@ -98,5 +98,26 @@
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
+    ],
+    "brand": [
+        {
+            "brand":"nike",
+        },
+        {
+            "brand":"adidas",
+        },
+        {
+            "brand":"puma",
+        },
+        {
+            "brand":"gucci",
+        },
+        {
+            "brand":"rolex",
+        },
+        {
+            "brand":"champions",
+        }
     ]
+    
 }
