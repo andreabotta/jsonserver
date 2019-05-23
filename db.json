@@ -12,7 +12,7 @@
             "id": 2,
             "title": "Post 2",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "adidas",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "Post 3",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "iceice",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "title": "Post 4",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "mike",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "title": "Post 5",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "daje",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "title": "Post 6",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "gang",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
@@ -62,7 +62,7 @@
             "id": 2,
             "title": "Post 2",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
+            "brand": "adidas",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -70,7 +70,7 @@
             "id": 3,
             "title": "Post 3",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
+            "brand": "iceice",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -78,7 +78,7 @@
             "id": 4,
             "title": "Post 4",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
+            "brand": "mike",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -86,7 +86,7 @@
             "id": 5,
             "title": "Post 5",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
+            "brand": "daje",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -94,7 +94,7 @@
             "id": 6,
             "title": "Post 6",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
+            "brand": "gang",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         }
