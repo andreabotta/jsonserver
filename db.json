@@ -2,10 +2,10 @@
     "items": [
         {
             "id": 1,
-            "title": "Post 1",
-            "desc": "Lorem ipsum..",
-            "brand": "nike",
-            "price": "12$",
+            "title": "chitarra acustica",
+            "desc": "Una chitarra acustica...",
+            "brand": "yamaha ",
+            "price": "$200",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
@@ -52,10 +52,10 @@
     "singleitems": [
         {
             "id": 1,
-            "title": "Post 1",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas,culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "nike",
-            "price": "12$",
+            "title": "chhitarra acustica",
+            "desc": "Una chitarra acustica è un tipo di strumento musicale in cui il suono è prodotto dalla vibrazione delle corde e si propaga ad intensità udibili attraverso la risonanza della cassa armonica, senza bisogno di amplificazione elettrica.",
+            "brand": "yamaha",
+            "price": "$200",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
