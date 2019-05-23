@@ -26,10 +26,10 @@
         },
         {
             "id": 4,
-            "title": "Post 4",
-            "desc": "Lorem ipsum..",
-            "brand": "mike",
-            "price": "12$",
+            "title": "Pianoforte",
+            "desc": "Strumento musicale a corde..",
+            "brand": "kawai",
+            "price": "$999",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
@@ -76,16 +76,16 @@
         },
         {
             "id": 4,
-            "title": "Post 4",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "mike",
-            "price": "12$",
+            "title": "Pianoforte",
+            "desc": "Strumento musicale a corde percosse da martelletti azionati per mezzo di una tastiera che, insieme alla cassa di risonanza (il mobile), alle corde e ai pedali, costituisce la parte essenziale dello strumento; è derivato dalla fusione del clavicembalo col clavicordo.",
+            "brand": "kawai",
+            "price": "$999",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
             "id": 5,
             "title": "Post 5",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
+            "desc": "",
             "brand": "daje",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "title": "Post 6",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
+            "desc": "",
             "brand": "gang",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
@@ -110,7 +110,7 @@
       "brand": "basso"
     },
     {
-      "brand": "benjo"
+      "brand": "pianoforte"
     },
     {
       "brand": "daje"
