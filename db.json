@@ -35,17 +35,17 @@
         {
             "id": 5,
             "title": "ukulele",
-            "desc": "Lorem ipsum..",
-            "brand": "daje",
-            "price": "12$",
+            "desc": "l'ukulele è uno strumento musicale hawaiano...",
+            "brand": "kala",
+            "price": "$60",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
             "id": 6,
-            "title": "Post 6",
-            "desc": "Lorem ipsum..",
-            "brand": "gang",
-            "price": "12$",
+            "title": "violino",
+            "desc": "il violino è uno strumento musicale ad arco della famiglia delle viole",
+            "brand": "classic",
+            "price": "$150",
             "img": "https://lorempixel.com/g/700/400/"
         }
     ],
@@ -85,17 +85,17 @@
         {
             "id": 5,
             "title": "ukulele",
-            "desc": "",
-            "brand": "daje",
-            "price": "12$",
+            "desc": "Strumento musicale hawaiano, frequente nell'orchestra jazz, simile ad una piccola chitarra, con quattro corde di acciaio che vengono pizzicate con un plettro di feltro; ha un timbro nasale e di breve vibrazione.",
+            "brand": "kala",
+            "price": "$60",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
             "id": 6,
-            "title": "Post 6",
-            "desc": "",
-            "brand": "gang",
-            "price": "12$",
+            "title": "violino",
+            "desc": "Strumento musicale ad arco della famiglia delle viole, con una estensione fonica molto superiore alla viola, ideato per trasformazione di questa nel sec. XVI; ha quattro corde di minugia accordate per quinte consecutive",
+            "brand": "classic",
+            "price": "$250",
             "img": "https://lorempixel.com/g/700/400/"
         }
     ],
@@ -113,10 +113,10 @@
       "brand": "pianoforte"
     },
     {
-      "brand": "daje"
+      "brand": "ukulele"
     },
     {
-      "brand": "gang"
+      "brand": "violino"
     }
   ]
     
