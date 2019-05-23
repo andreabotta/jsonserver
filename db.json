@@ -12,7 +12,7 @@
             "id": 2,
             "title": "Post 2",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "adidas",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "Post 3",
             "desc": "Lorem ipsum..",
-            "brand": "nike",
+            "brand": "puma",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -62,7 +62,7 @@
             "id": 2,
             "title": "Post 2",
             "desc": "Lorem ipsum dolor sit amet,consectetur elit",
-            "brand": "nike",
+            "brand": "adidas",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
@@ -70,7 +70,7 @@
             "id": 3,
             "title": "Post 3",
             "desc": "Lorem ipsum dolor sit amet,consectetur elit",
-            "brand": "nike",
+            "brand": "puma",
             "price": "12$",
             "img": "https://lorempixel.com/g/700/400/"
         },
