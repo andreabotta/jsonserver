@@ -99,28 +99,25 @@
             "img": "https://lorempixel.com/g/700/400/"
         }
     ],
-   "brand": [
-        {
-            "name":"nike",
-        },
-        {
-             "name":"adidas",
-        },
-        {
-             "name":"puma",
-            
-        },
-        {
-             "name":"gucci",
-            
-        },
-        {
-             "name":"rolex",
-        },
-        {
-             "name":"champion"
-        
-        }
-    ]
+   "brands": [
+    {
+      "brand": "nike"
+    },
+    {
+      "brand": "adidas"
+    },
+    {
+      "brand": "iceice"
+    },
+    {
+      "brand": "mike"
+    },
+    {
+      "brand": "daje"
+    },
+    {
+      "brand": "gang"
+    }
+  ]
     
 }
