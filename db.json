@@ -10,15 +10,15 @@
         },
         {
             "id": 2,
-            "title": "Post 2",
+            "title": "chitarra elettrica",
             "desc": "Lorem ipsum..",
-            "brand": "adidas",
-            "price": "12$",
+            "brand": "Gibson Les Paul",
+            "price": "$700",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
             "id": 3,
-            "title": "Post 3",
+            "title": "basso",
             "desc": "Lorem ipsum..",
             "brand": "iceice",
             "price": "12$",
@@ -60,10 +60,10 @@
         },
         {
             "id": 2,
-            "title": "Post 2",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
-            "brand": "adidas",
-            "price": "12$",
+            "title": "chitarra elettrica",
+            "desc": "La chitarra elettrica è un tipo di chitarra in cui la vibrazione delle corde viene rilevata da uno o più pick-up; il segnale viene quindi prelevato all'uscita e convogliato in un amplificatore acustico affinché il suono sia udibile.",
+            "brand": "Gibson Les Paul",
+            "price": "$700",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
@@ -71,7 +71,7 @@
             "title": "Post 3",
             "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio saepe harum dolore pariatur voluptas, culpa quod ducimus doloremque enim maiores totam illo, quo ab eius! Provident nostrum consequatur eligendi impedit?",
             "brand": "iceice",
-            "price": "12$",
+            "price": "",
             "img": "https://lorempixel.com/g/700/400/"
         },
         {
