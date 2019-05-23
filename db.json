@@ -99,24 +99,26 @@
             "img": "https://lorempixel.com/g/700/400/"
         }
     ],
-    "brand": [
+   "brand": [
         {
-            "brand":"nike",
+            "name":"nike",
         },
         {
-            "brand":"adidas",
+             "name":"puma",
         },
         {
-            "brand":"puma",
+             "name":"adidas",
+            
         },
         {
-            "brand":"gucci",
+             "name":"gucci",
+            
+        {
+             "name":"rolex",
         },
         {
-            "brand":"rolex",
-        },
-        {
-            "brand":"champions"
+             "name":"champion"
+        
         }
     ]
     
