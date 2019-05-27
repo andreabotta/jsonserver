@@ -4,7 +4,7 @@
             "id": 1,
             "title": "chitarra acustica",
             "desc": "Una chitarra acustica...",
-            "brand": "yamaha ",
+            "brand": "chitarra ",
             "price": "$200",
             "img": "https://it.yamaha.com/it/files/fg_fgx_540x540_396x396_e8d479ea326ef10b7f243bddca9b05e7.jpg"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "title": "chitarra elettrica",
             "desc": "La chitarra elettrica è un tipo di chitarra...",
-            "brand": "Gibson Les Paul",
+            "brand": "chitarra",
             "price": "$700",
             "img": "https://www.strumentimusicali.net/images/product/600x450/2017/06/12/5f/spongebob-kitchitarraelettricanera-2.jpg"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "basso",
             "desc": "Il basso elettrico...",
-            "brand": "gear4music",
+            "brand": "basso",
             "price": "$300",
             "img": "https://www.rocknrollstore.net/5715-large_default/tokai-ajb58-j-style-traditional-basso-elettrico-4-corde.jpg"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "title": "Pianoforte",
             "desc": "Strumento musicale a corde..",
-            "brand": "kawai",
+            "brand": "pianoforte",
             "price": "$999",
             "img": "https://images.eprice.it/nobrand/0/Lightbox/908/204007908/33844957812610360PRDID.0.jpg"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "title": "ukulele",
             "desc": "l'ukulele è uno strumento musicale hawaiano...",
-            "brand": "kala",
+            "brand": "ukulele",
             "price": "$60",
             "img": "https://images-eu.ssl-images-amazon.com/images/I/41HeUKT%2BnWL.jpg"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "title": "violino",
             "desc": "il violino è uno strumento musicale della famiglia delle viole",
-            "brand": "classic",
+            "brand": "violino",
             "price": "$150",
             "img": "https://www.ekomusicgroup.com/img/items/03511002_m.jpg"
         }
@@ -54,7 +54,7 @@
             "id": 1,
             "title": "chhitarra acustica",
             "desc": "La chitarra folk F370 Yamaha è caratterizzata da un corpo western ed emette un sound corposo, pulito e bilanciato con note alte ben definite e bassi molto profondi",
-            "brand": "yamaha",
+            "brand": "chitarra",
             "price": "$200",
             "img": "https://it.yamaha.com/it/files/fg_fgx_540x540_396x396_e8d479ea326ef10b7f243bddca9b05e7.jpg"
         },
@@ -62,7 +62,7 @@
             "id": 2,
             "title": "chitarra elettrica",
             "desc": "chitarra personalizzata,Corpo Solido Configurazione String:6 corde, materiale corpo:Mogano Destrezza:Destro Applicazione:tutti Colore:neroLa chitarra elettrica è un tipo di chitarra in cui la vibrazione delle corde viene rilevata da uno o più pick-up; il segnale viene quindi prelevato all'uscita e convogliato in un amplificatore acustico affinché il suono sia udibile.",
-            "brand": "Gibson Les Paul",
+            "brand": "chitarra",
             "price": "$700",
             "img": "https://www.strumentimusicali.net/images/product/600x450/2017/06/12/5f/spongebob-kitchitarraelettricanera-2.jpg"
         },
@@ -70,7 +70,7 @@
             "id": 3,
             "title": "basso",
             "desc": "Il basso elettrico (o chitarra basso, più semplicemente noto come basso) è uno strumento musicale, della famiglia degli elettrofoni, dalla tessitura grave.",
-            "brand": "gear4music",
+            "brand": "basso",
             "price": "$300",
             "img": "https://www.rocknrollstore.net/5715-large_default/tokai-ajb58-j-style-traditional-basso-elettrico-4-corde.jpg"
         },
@@ -78,7 +78,7 @@
             "id": 4,
             "title": "Pianoforte",
             "desc": "Strumento musicale a corde percosse da martelletti azionati per mezzo di una tastiera che, insieme alla cassa di risonanza (il mobile), alle corde e ai pedali, costituisce la parte essenziale dello strumento; è derivato dalla fusione del clavicembalo col clavicordo.",
-            "brand": "kawai",
+            "brand": "pianoforte",
             "price": "$999",
             "img": "https://images.eprice.it/nobrand/0/Lightbox/908/204007908/33844957812610360PRDID.0.jpg"
         },
@@ -86,7 +86,7 @@
             "id": 5,
             "title": "ukulele",
             "desc": "Strumento musicale hawaiano, frequente nell'orchestra jazz, simile ad una piccola chitarra, con quattro corde di acciaio che vengono pizzicate con un plettro di feltro; ha un timbro nasale e di breve vibrazione.",
-            "brand": "kala",
+            "brand": "ukulele",
             "price": "$60",
             "img": "https://images-eu.ssl-images-amazon.com/images/I/41HeUKT%2BnWL.jpg"
         },
@@ -94,7 +94,7 @@
             "id": 6,
             "title": "violino",
             "desc": "Strumento musicale ad arco della famiglia delle viole, con una estensione fonica molto superiore alla viola, ideato per trasformazione di questa nel sec. XVI; ha quattro corde di minugia accordate per quinte consecutive",
-            "brand": "classic",
+            "brand": "violino",
             "price": "$250",
             "img": "https://www.ekomusicgroup.com/img/items/03511002_m.jpg"
         }
