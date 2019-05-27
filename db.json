@@ -2,7 +2,7 @@
     "items": [
         {
             "id": 1,
-            "title": "chitarra acustica",
+            "title":"chitarra acustica",
             "desc": "Una chitarra acustica...",
             "brand": "chitarra",
             "price": "$200",
